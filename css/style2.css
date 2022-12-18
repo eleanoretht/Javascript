@@ -1,0 +1,57 @@
+.navbar-brand{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav-item {
+    font-family:'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5%;
+}
+
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white; 
+}
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    color: white; 
+}
+
+.séparation {
+    background-color: black;
+    height: 1px;
+    margin: 5%;
+}
+
+.fond1 {
+    background-color: black;
+}
+
+.fond2 {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+footer { 
+    background-color: black;
+}
+
+footer a {
+    width: 100%;
+}
+
+.body {
+    background-color: #222222;
+}
